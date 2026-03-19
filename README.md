@@ -4,7 +4,7 @@
 This project focuses on analyzing employee turnover, specifically addressing the "Brain Drain" phenomenon (the loss of high-performing talent). The dashboard identifies key departments and age groups at risk, providing data-driven insights to help HR teams improve retention strategies.
 
 📊 Dataset
-Source: Employee HR Record dataset.
+Source: Employee Performance Dataset by Xóm Data.
 
 Key Features: Employee ID, Department, Age, Performance Rating, Satisfaction Score, Hire/Exit Dates, and Business Impact (Sales).
 
@@ -28,7 +28,7 @@ Developed Age_Group with custom sorting logic.
 
 Calculated Avg_Performance_Rating and Turnover Rate %.
 
-Dashboard Design: Built a 2-page interactive report focusing on performance-to-satisfaction correlation.
+Dashboard Design: Built a interactive dashboard focusing on performance-to-satisfaction correlation on Power BI.
 
 📈 Key Results (Insights)
 Brain Drain Confirmed: High-performers (Rating > 3.5) in "Store Operations" and "Customer Service" have a higher turnover rate than average employees.
